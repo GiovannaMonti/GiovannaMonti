@@ -5,7 +5,7 @@ Currently working at [Mia-Platform](https://github.com/mia-platform)
 
 ## Talks & Conferences 🎤
 
-- Talk | [**devsecopsday 2023**](https://2023.devsecopsday.it/) (Bologna, Italy): [Service Accounts: From Great Power Comes Great Responsibility](https://www.youtube.com/watch?v=_ImQfVtttcg)
+- Talk | [devsecopsday 2023](https://2023.devsecopsday.it/) (Bologna, Italy): [Service Accounts: From Great Power Comes Great Responsibility](https://www.youtube.com/watch?v=_ImQfVtttcg)
 - Talk | [Platmosphere 2024](https://platmosphere.com/) (Milan, Italy): Platform Team, Kickstart your Enterprise IDP! (co-speaker with [Davide Bianchi](https://github.com/davidebianchi))
 
 ## Digital content 💻
