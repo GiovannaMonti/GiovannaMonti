@@ -9,6 +9,7 @@ Currently working at [Mia-Platform](https://github.com/mia-platform)
 - Talk | [Platmosphere 2024](https://platmosphere.com/) (Milan, Italy): Platform Team, Kickstart your Enterprise IDP! (co-speaker with [Davide Bianchi](https://github.com/davidebianchi))
 
 ## Digital content 💻
+- Blogpost | Mia-Platform Blog: [Exploring Team Dynamics and the Role of Internal Developer Platforms](https://mia-platform.eu/blog/team-dynamics-idp/)
 - Blogpost | CNCF Blog: [Service account 101: the power of M2M with security in mind](https://www.cncf.io/blog/2023/06/01/service-account-101-the-power-of-m2m-with-security-in-mind/)
 - Podcast Episode | Continuous Delivery Podcast: [Da grandi poteri, grandi service account](https://open.spotify.com/episode/5BUeB1iM1IK6e06S1yYJDo?si=569e07a04a184cdb)
 
