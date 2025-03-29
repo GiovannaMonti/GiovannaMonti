@@ -1,7 +1,7 @@
 Full-stack developer 👩‍💻  
 Wannabe speaker since 2023 ✨
 
-Currently working at [Mia-Platform](https://github.com/mia-platform)
+Currently working at [Adelean](https://www.adelean.com/)
 
 ## Talks & Conferences 🎤
 
