@@ -13,6 +13,8 @@ Currently working at [Adelean](https://www.adelean.com/)
 
 ## Digital content 💻
 
+- Blogpost | Adelean blog: [ElasticON Paris 2026, the future is agentic](https://www.adelean.com/en/blog/20260129_elasticon_2026/)
+- Blogpost | Adelean blog: [Voxxed Days CERN 2026, where science and technology meet](https://www.adelean.com/en/blog/20260212_voxxed_days_cern_2026/)
 - Blogpost | Adelean blog: [Reflections from Haystack US 2025 - The Future of Search](https://www.adelean.com/en/blog/20250516_haystack_2025/)
 - Blogpost | CNCF Blog: [Exploring Team Dynamics and the Role of Internal Developer Platforms](https://www.cncf.io/blog/2024/06/21/exploring-team-dynamics-and-the-role-of-internal-developer-platforms/)
 - Blogpost | CNCF Blog: [Service account 101: the power of M2M with security in mind](https://www.cncf.io/blog/2023/06/01/service-account-101-the-power-of-m2m-with-security-in-mind/)
