@@ -7,11 +7,12 @@ Currently working at [Adelean](https://www.adelean.com/)
 
 Coming soon:
 
-- Talk | [Voxxed Days Luxembourg 2026](https://luxembourg.voxxeddays.com/en/) (Mondorf-les-Bains, Luxembourg): [A Practical Introduction to WebSockets](https://m.devoxx.com/events/voxxedlu2026/talks/6370/details)
-- Talk | [Voxxed Days Luxembourg 2026](https://luxembourg.voxxeddays.com/en/) (Mondorf-les-Bains, Luxembourg): [Le vrai coût d'un token: la facture cachée de l’IA générative](https://m.devoxx.com/events/voxxedlu2026/talks/6380/details) (co-speaker with Pietro Mele)
+- Talk | [Riviera Dev 2026](https://rivieradev.fr/) (Sophia Antipolis, France): [Behind the hype: managing billion-scale embeddings in Elasticsearch and OpenSearch](https://rivieradev.fr/session/968) (co-speaker with Pietro Mele)
 
 ---
 
+- Talk | [Voxxed Days Luxembourg 2026](https://luxembourg.voxxeddays.com/en/) (Mondorf-les-Bains, Luxembourg): [A Practical Introduction to WebSockets](https://m.devoxx.com/events/voxxedlu2026/talks/6370/details)
+- Talk | [Voxxed Days Luxembourg 2026](https://luxembourg.voxxeddays.com/en/) (Mondorf-les-Bains, Luxembourg): [Le vrai coût d'un token: la facture cachée de l’IA générative](https://m.devoxx.com/events/voxxedlu2026/talks/6380/details) (co-speaker with Pietro Mele)
 - Talk | [Voxxed Days Luxembourg 2025](https://luxembourg.voxxeddays.com/en/) (Mondorf-les-Bains, Luxembourg): [Zero-Fluff Redux: modernize your projects, one slice at a time](https://www.youtube.com/watch?v=L6v9x-fFVlw)
 - Talk | [Voxxed Days Luxembourg 2025](https://luxembourg.voxxeddays.com/en/) (Mondorf-les-Bains, Luxembourg): [Exploiter l'IA pour renforcer l'information de confiance](https://www.youtube.com/watch?v=43Pb_MgRk-E) (co-speaker with Lucian Precup)
 - Talk | [Berlin Buzzwords 2025](http://2025.berlinbuzzwords.de/) (Berlin, Germany): [Harnessing AI to strengthen trustworthy information](https://www.youtube.com/watch?v=AfTF61pSf2E) (co-speaker with Lucian Precup)
